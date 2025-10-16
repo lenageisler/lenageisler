@@ -1,10 +1,9 @@
 ### Hey hey
 
-- 🧑‍🎓 I recently completed Le Wagon's  Web Dev Bootcamp.
-- 🦾 Currently I strengthen my skills in Ruby on Rails and JavaScript
-- 🌱 and I'm learning Python and TypeScript
-- 👷 I’m currently working on a personal webpage and a blog page to share recipes between family members
-
+- 🧑‍🎓 Recently completed Le Wagon's Web Development Bootcamp
+- 🦾 I'm currently strengthening my skills in Ruby on Rails and JavaScript
+- 🌱 and I'm also learning Python and TypeScript
+- 👷 Working on two personal projects — a website and a recipe blog for my family
 
 <!--
 **lenageisler/lenageisler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
